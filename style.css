@@ -134,7 +134,7 @@ h1{
 
 
 .bar1, .bar2, .bar3 { display: none; }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 798px) {
     .menu {
       display: none !important;
     }
